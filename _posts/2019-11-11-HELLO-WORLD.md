@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "Hello World!"
+comments: true
 ---
 
 # Hello World
 
-**Hello World**, this is my first Jekyll blog post.
+**Hello World**, Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident, minima.
 
 
-I hope you like it!
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam perferendis, vero omnis nemo molestias a ex aperiam eaque ab beatae!
