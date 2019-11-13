@@ -216,10 +216,9 @@ pre {
     width: 16px;
     height: 16px;
     display: inline-block;
-    fill: #{$grey-color};
+    fill: #{$brand-color};
     padding-right: 5px;
     vertical-align: text-top;
-    font-size: 50px;
 }
 
 .social-media-list {
@@ -256,4 +255,9 @@ table {
   td {
     border: 1px solid $grey-color-light;
   }
+}
+
+main .wrapper {
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
 }
