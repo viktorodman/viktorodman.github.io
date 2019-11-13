@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Human.txt
+img: /human.png/
 comments: true
 ---
 
