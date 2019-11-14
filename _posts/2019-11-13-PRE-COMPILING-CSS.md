@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pre-compiling CSS
+img: /pre-css.png/
 comments: true
 ---
 

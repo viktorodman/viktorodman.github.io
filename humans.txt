@@ -1,0 +1,23 @@
+/* TEAM */
+                       
+    Developer: Viktor Ödman.                        
+    Contact: vo222dq@student.lnu.se                      
+    Github: https://github.com/viktorodman
+    From: Kalmar, Sweden
+
+/* THANKS */
+    Example: Ellen Nu
+    Twitter: @Ellennuu
+    From: Kalmar
+
+    Example: Nisse Hult
+    Twitter: @NisseHult
+    From: Kalmar
+
+/* SITE */
+    Last update: 2019/11/14
+    Language: English
+    Doctype: HTML5
+    IDE: Visual Studio Code
+
+                        

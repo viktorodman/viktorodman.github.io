@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open Graph
+img: /open-graph-logo.png/
 comments: true
 ---
 

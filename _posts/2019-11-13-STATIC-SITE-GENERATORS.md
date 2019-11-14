@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Static Site Generators
+img: /jekyll-logo.png/
 comments: true
 ---
 
