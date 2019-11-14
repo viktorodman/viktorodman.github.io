@@ -2,6 +2,7 @@
 layout: post
 title: Robot.txt
 img: /roboto.png/
+permalink: /posts/robot-text/
 comments: true
 ---
 

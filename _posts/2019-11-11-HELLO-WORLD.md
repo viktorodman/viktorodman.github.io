@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Hello World!"
+permalink: /posts/hello-world/
 comments: true
 ---
 

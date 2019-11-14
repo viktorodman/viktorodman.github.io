@@ -2,6 +2,7 @@
 layout: post
 title: Human.txt
 img: /human.png/
+permalink: /posts/human-text/
 comments: true
 ---
 

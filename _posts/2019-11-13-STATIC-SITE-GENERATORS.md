@@ -2,6 +2,7 @@
 layout: post
 title: Static Site Generators
 img: /jekyll-logo.png/
+permalink: /posts/static-site-generator/
 comments: true
 ---
 
