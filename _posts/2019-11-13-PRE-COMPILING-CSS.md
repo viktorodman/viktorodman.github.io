@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-compiling CSS
-img: /pics/pre-css.png/
+img: /assets/pre-css.png/
 permalink: /posts/pre-compiling-css/
 comments: true
 ---

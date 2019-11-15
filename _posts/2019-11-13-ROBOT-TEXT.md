@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Robots.txt
-img: /pics/roboto.png/
+img: /assets/roboto.png/
 permalink: /posts/robots-text/
 comments: true
 ---
