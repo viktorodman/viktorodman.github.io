@@ -10,7 +10,7 @@
 }
 
 .site-title {
-  @include relative-font-size(2);
+  @include relative-font-size(2.6);
   font-weight: 700;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
@@ -23,7 +23,7 @@
     color: $brand-color;
   }
   &:hover {
-    color: $background-color;
+    color: $grey-color-light;
   }
 
 }
@@ -42,7 +42,7 @@
 
   .page-link {
     @include relative-font-size(2);
-    color: $background-color;
+    color: $grey-color-light;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -194,6 +194,7 @@
 
 .post-list-heading {
   @include relative-font-size(1.75);
+  text-align: center;
 }
 
 .post-list {
@@ -203,6 +204,7 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    text-align: center;
   }
 }
 
@@ -216,7 +218,10 @@
   @include relative-font-size(1.5);
 }
 
-
+.post-list .post-link {
+  text-align: center;
+  @include relative-font-size(2.5);
+}
 
 /**
  * Posts
@@ -224,6 +229,8 @@
 .post-header {
   margin-bottom: $spacing-unit;
   text-align: center;
+  background-color: $footer-color;
+  color: $brand-color;
 }
 
 .post-header img {
@@ -242,7 +249,8 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
-
+  background-color: $content-color;
+  padding: 5px;
   h2 {
     @include relative-font-size(2);
 
@@ -267,3 +275,5 @@
     }
   }
 }
+
+

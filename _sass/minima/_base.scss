@@ -257,7 +257,11 @@ table {
   }
 }
 
-main .wrapper {
-  border-left: 1px solid grey;
-  border-right: 1px solid grey;
+main .wrapper article {
+  background-color: $content-color;
+}
+
+.wrapper .home {
+  background-color: $content-color;
+  /* border-radius: 25px; */
 }

@@ -2,17 +2,20 @@
 layout: page
 title: About
 permalink: /about/
+img: /pics/avatar.png/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi my name is Viktor Ödman.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Im 25 years old and im from Billingsfors, Dalsland
+I'm currently studying web development(webbprogrammerare?) in Kalmar.
+Before i started stuying I worked at a paper mill for 4 years.
+
+### My ongoing courses im currently taking.
+
+* [Client-based Webprogramming](http://coursepress.lnu.se/kurs/klientbaserad-webbprogrammering/)
+
+* [Grafiska Verktyg](https://lnu.se/kurs/grafiska-verktyg/distans-deltid-engelska-ht/)
