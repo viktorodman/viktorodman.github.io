@@ -31,7 +31,7 @@ github_username:  viktorodman
 icon: /assets/roboto.png/
 
 # Open Graph image
-open-graph-img: /assets/human.png/
+open-graph-img: ../assets/human.png/
 
 # Disqus Comments
 disqus:
