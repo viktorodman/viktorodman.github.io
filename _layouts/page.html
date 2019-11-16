@@ -4,7 +4,7 @@ layout: default
 <article class="post">
   <header class="post-header">
       {%- if page.img -%}
-      <img src="{{ page.img }}" alt="">
+      <img src="{{ site.baseurl }}{{ page.img }}" alt="">
     {%- endif -%}
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>

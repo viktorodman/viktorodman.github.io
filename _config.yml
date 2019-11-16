@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 author: Viktor Ödman
-title: My Webpage
+title: Blog
 email: vo222dq@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is my webpage.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /blog # the subpath of your site, e.g. /blog
+url: "https://viktorodman.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: viktorodmantest
 github_username:  viktorodman
 
@@ -31,7 +31,7 @@ github_username:  viktorodman
 icon: /assets/roboto.png/
 
 # Open Graph image
-open-graph-img: ../assets/human.png/
+open-graph-img: /assets/human.png/
 
 # Disqus Comments
 disqus:

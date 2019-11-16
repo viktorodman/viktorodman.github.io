@@ -2,7 +2,7 @@
 layout: post
 title: Open Graph
 img: /assets/open-graph-logo.png/
-permalink: /posts/open-graph/
+permalink: /open-graph/
 comments: true
 ---
 
