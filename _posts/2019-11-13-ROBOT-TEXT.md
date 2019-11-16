@@ -11,7 +11,7 @@ comments: true
 Robots.txt is a text document used to communicate with "Web Robots" that search the web.
 The robots.txt document tells the web robots what information they are allowed to access on the website.
 
-I've configured my robot.txt to not allow any information to accessed by web robots.
+I've configured my robot.txt to not allow any information to be accessed by web robots.
 
 ###### My robots.txt
 

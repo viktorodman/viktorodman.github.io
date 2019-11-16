@@ -10,4 +10,4 @@ comments: true
 
 * What type of projects are they suitable for?
 
-Static site generators are great for projects that needs to get website up and running quick. Like a startup company that wants to present there product.
+Static site generators are great for projects that needs to get website up and running quick. Like a startup company that wants to present a product.

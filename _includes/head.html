@@ -5,7 +5,11 @@
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ page.permalink }}" />
-  <meta property="og:image" content="{{ site.baseurl }}{{ site.open-graph-img }}" />
+  {% if page.img %}
+  <meta property="og:image" content="{{ site.baseurl }}{{ page.img }}" />
+  {% else %}
+  <meta property="og:image" content="{{ site.baseurl }}{{ site.icon }}" />
+  {% endif %}
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | absolute_url }}">
   <link rel="author" href="{{ site.baseurl }}/humans.txt" />
