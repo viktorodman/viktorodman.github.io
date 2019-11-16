@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Human.txt
-img: /assets/human.png/
+img: /assets/human.png
 permalink: /human-text/
 comments: true
 ---

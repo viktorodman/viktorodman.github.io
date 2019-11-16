@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Graph
-img: /assets/open-graph-logo.png/
+img: /assets/open-graph-logo.png
 permalink: /open-graph/
 comments: true
 ---

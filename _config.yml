@@ -28,10 +28,10 @@ twitter_username: viktorodmantest
 github_username:  viktorodman
 
 # Favicon
-icon: /assets/roboto.png/
+icon: /assets/roboto.png
 
 # Open Graph image
-open-graph-img: /assets/human.png/
+open-graph-img: /assets/human.png
 
 # Disqus Comments
 disqus:

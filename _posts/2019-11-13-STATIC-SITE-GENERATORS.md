@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Static Site Generators
-img: /assets/jekyll-logo.png/
+img: /assets/jekyll-logo.png
 permalink: /static-site-generator/
 comments: true
 ---
